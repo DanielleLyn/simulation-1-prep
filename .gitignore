@@ -1,0 +1,4 @@
+// Files for git to ignore when committing & pushing to github 
+.env
+node_modules 
+.DS_Store

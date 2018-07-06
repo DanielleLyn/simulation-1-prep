@@ -1,0 +1,5 @@
+// Making main server connection
+"main": "server/index.js"
+
+// Making a connect from front end to server
+"proxy": "http://localhost:4000"
